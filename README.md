@@ -1,1 +1,2 @@
 # PersonalRobson
+Site criado para prospectar novos clientes interessados em melhorar sua performance nos exercícios e bem estar do personal trainer robson . Produzido com as funcionalidades do bootstrap v5.0 e prático e versátil
